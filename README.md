@@ -45,7 +45,7 @@ An end-to-end regression project on the real-world, messy Bengaluru House Price 
   - `statsmodels`: Required by Plotly for the OLS trendlines
   - `scikit-learn`: Used **only** for `train_test_split`, `OneHotEncoder`, and `StandardScaler`
 - **Algorithms:** Simple Linear Regression (OLS), Multiple Linear Regression (Gradient Descent), Ridge (L2), Lasso (L1)
-- **Data Source:** [Bengaluru House Price dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+- **Data Source:** [Bengaluru House Price dataset (Kaggle)](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 
 ## Dataset
 
