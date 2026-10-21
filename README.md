@@ -5,18 +5,23 @@ An end-to-end regression project on the real-world, messy Bengaluru House Price 
 ## Demo
 
 *Exploratory Data Analysis - Correlation Heatmap*
+
 ![Correlation Heatmap](images/heatmap.png)
 
 *Price vs. Key Features*
+
 ![Price vs Features](images/scatterplots.png)
 
 *Gradient Descent Convergence (Cost over Epochs)*
+
 ![GD Convergence](images/gd_cost.png)
 
 *Best Model: Predicted vs. Actual and Residuals*
+
 ![Predicted vs Actual](images/gd_predictions.png)
 
 *Coefficient Comparison Across Models*
+
 ![Coefficient Comparison](images/coefficients.png)
 
 ## Features
